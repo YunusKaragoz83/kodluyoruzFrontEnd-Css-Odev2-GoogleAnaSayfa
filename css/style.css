@@ -1,0 +1,33 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.search-bar {
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+
+table {
+    border-width: thick;
+    width: 85%;
+    margin: 0 0 0 8%
+}
+
+.GoogleResim {
+    text-align: center;
+}
+
+.tablo {
+    text-align: center;
+}
+
+.kutu-2, .kutu-3 {
+    font-size: small;
+}
+
+footer {
+    margin-top: 10px;
+    text-align: center;
+    font-size: small;
+}
